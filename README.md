@@ -1,57 +1,74 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,100:1a1208&height=220&section=header&text=HAMIDA%20Souraka&fontSize=62&fontColor=C9A84C&fontAlignY=45&desc=Builder%20%C2%B7%20B%C3%A9nin%20%F0%9F%87%A7%F0%9F%87%AF&descAlignY=68&descSize=18&animation=scaleIn&fontAlign=50"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    HEADER — WAVE ANIMÉ                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1208,100:C9A84C&height=200&section=header&text=Hamida%20Souraka&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Founder%20%C2%B7%20Cotonou%2C%20B%C3%A9nin%20%F0%9F%87%A7%F0%9F%87%AF&descAlignY=62&descSize=16&animation=fadeIn&fontAlign=50"/>
 
-<!-- ANIMATED ROLES -->
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  TYPING SVG — RÔLES ANIMÉS                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/hamidasouraka">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=C9A84C&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%F0%9F%8E%93+%C3%89tudiant+%C2%B7+Digitalisation+%26+Data+Science+%C2%B7+S%C3%A8me+City;%F0%9F%8E%8C+S%C3%A9lectionn%C3%A9+%C2%B7+GCI+World+2026+%C2%B7+Universit%C3%A9+de+Tokyo;%F0%9F%8D%BD%EF%B8%8F+Fondateur+%26+CEO+%C2%B7+Restafy+%E2%80%94+Super-app+Afrique;%F0%9F%8C%90+Fondateur+%C2%B7+AfroSite+%E2%80%94+Digitaliser+l%27Afrique;%F0%9F%94%A5+17+ans.+B%C3%A9nin.+En+train+de+construire+l%27avenir.+%F0%9F%8C%8D" alt="Roles animés"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=C9A84C&center=true&vCenter=true&repeat=true&width=750&height=55&lines=🎓+Data+Science+%26+Digitalization+·+Sème+City+Institute;🎌+GCI+World+2026+·+Matsuo-Iwasawa+Lab+·+Univ.+of+Tokyo;🍽️+Founder+%26+CEO+·+Restafy+—+West+Africa+Super-App;🌐+Founder+·+AfroSite+—+Digitalizing+African+SMEs;🔥+17+years+old.+Cotonou.+Building+the+future.+🌍" alt="Animated roles"/>
 </a>
 
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       BADGES                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <br/>
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=hamidasouraka&style=flat-square&color=C9A84C&label=Profile+Views)](https://github.com/hamidasouraka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hamidasouraka-C9A84C?style=flat-square&logo=linkedin&logoColor=0a0a0a&labelColor=0a0a0a)](https://linkedin.com/in/hamidasouraka)
+[![Restafy](https://img.shields.io/badge/CEO-Restafy.shop-C9A84C?style=flat-square&labelColor=0a0a0a)](https://restafy.shop)
+[![GCI Tokyo](https://img.shields.io/badge/GCI_World_2026-Univ._Tokyo-C9A84C?style=flat-square&logo=academia&logoColor=C9A84C&labelColor=0a0a0a)](https://gci.t.u-tokyo.ac.jp)
+[![Portfolio](https://img.shields.io/badge/Portfolio-souraka.vercel.app-C9A84C?style=flat-square&labelColor=0a0a0a)](https://souraka.vercel.app)
 
-## `> whoami` 
-
-```python
-class HamidaSouraka:
-    nom        = "HAMIDA Souraka"
-    age        = 17
-    ville      = "Cotonou, Bénin 🇧🇯"
-    formation  = "Digitalisation & Data Science — Sème City Institute"
-    startups   = ["Restafy 🍽️", "AfroSite 🌐"]
-    sélection  = "GCI World 2026 · Matsuo-Iwasawa Lab · Université de Tokyo 🎌"
-    mission    = "Digitaliser l'Afrique avec l'intelligence artificielle"
-    philosophie = "Je n'ai pas postulé car j'étais prêt. J'ai postulé car j'avais besoin de l'être."
-```
+</div>
 
 ---
 
-## `> git log --parcours`
+## `> whoami`
+
+```yaml
+name       : Hamida Souraka
+age        : 17
+location   : Cotonou, Bénin 🇧🇯
+role       : AI Engineer & Founder
+education  : Digitalisation & Data Science — Sème City Institute (SCITI)
+startups   : ["Restafy 🍽️ — West Africa super-app", "AfroSite 🌐 — AI web agency"]
+selection  : GCI World 2026 · Matsuo-Iwasawa Deep Learning Lab · Univ. of Tokyo 🎌
+mission    : "Bridging the gap between global AI and African entrepreneurship"
+philosophy : "I didn't apply because I was ready. I applied because I needed to be."
+```
+
+I started Restafy at 16 — not because the timing was perfect, but because I believe in seeing things for what they can *become*, not just what they are.
+
+> *"The best time to invest in Africa was 10 years ago. The second best time is today."*
+
+---
+
+## `> git log --oneline --parcours`
 
 ```
-● AVR. 2026  GCI World — Université de Tokyo 🎌
-│            Sélectionné · Programme IA Matsuo-Iwasawa Lab
-│            → gci.t.u-tokyo.ac.jp
+● APR 2026  ──  GCI World — University of Tokyo 🎌
+│               AI Researcher · Matsuo-Iwasawa Deep Learning Lab
+│               Selected cohort · gci.t.u-tokyo.ac.jp
 │
-● 2025       Sème City Institute — Cotonou, Bénin
-│            Digitalisation & Data Science · Formation active
+● 2025      ──  Sème City Institute of Technology (SCITI)
+│               Bachelor · Digitalization & Data Science · Active
 │
-● 2024       Fondation de Restafy 🍽️
-│            Super-app restauration · Afrique de l'Ouest
+● 2024      ──  Founded Restafy 🍽️
+│               Food delivery + event ticketing super-app · West Africa
+│               Stack: Vite · React · Supabase · Vercel · Mobile Money USSD
 │
-● 2024       Fondation d'AfroSite 🌐
-│            Plateforme de digitalisation · PME africaines
+● 2024      ──  Founded AfroSite 🌐
+│               AI-powered web agency · Digitizing African SMEs
 │
-→ 2027+      Retour et construction 🌍
-             Appliquer l'IA pour les entrepreneurs africains
+→ 2027+     ──  Return & Scale 🌍
+                Apply Tokyo research to African entrepreneurship at continental scale
 ```
 
 ---
@@ -60,27 +77,38 @@ class HamidaSouraka:
 
 <div align="center">
 
-**Langages**
+**Statistics & Data Science**
+
+[![My Skills](https://skillicons.dev/icons?i=python,r&theme=dark)](https://skillicons.dev)
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=C9A84C)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=C9A84C)
-![HTML](https://img.shields.io/badge/HTML-0a0a0a?style=flat-square&logo=html5&logoColor=C9A84C)
-![CSS](https://img.shields.io/badge/CSS-0a0a0a?style=flat-square&logo=css3&logoColor=C9A84C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=C9A84C)
 ![R](https://img.shields.io/badge/R-0a0a0a?style=flat-square&logo=r&logoColor=C9A84C)
-
-**IA & Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=C9A84C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0a?style=flat-square&logo=scikit-learn&logoColor=C9A84C)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=C9A84C)
 ![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=C9A84C)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0a?style=flat-square&logo=jupyter&logoColor=C9A84C)
 
-**Web & Backend**
+**AI / Machine Learning**
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=C9A84C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0a?style=flat-square&logo=scikit-learn&logoColor=C9A84C)
+
+**Web & Product**
+
+[![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,supabase&theme=dark)](https://skillicons.dev)
 
 ![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=C9A84C)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=C9A84C)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=C9A84C)
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=flat-square&logo=vite&logoColor=C9A84C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=C9A84C)
+![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=C9A84C)
+
+**Infrastructure**
+
+[![My Skills](https://skillicons.dev/icons?i=vercel,postgres,git&theme=dark)](https://skillicons.dev)
+
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=C9A84C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=C9A84C)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=C9A84C)
 
 </div>
@@ -91,12 +119,46 @@ class HamidaSouraka:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hamidasouraka&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&icon_color=C9A84C&text_color=888888&ring_color=C9A84C"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidasouraka&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&text_color=888888"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamidasouraka&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&icon_color=C9A84C&text_color=666666&ring_color=C9A84C&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidasouraka&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&text_color=666666&langs_count=7"/>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidasouraka&hide_border=true&background=0a0a0a&stroke=1a1208&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=555555&dates=444444&currStreakNum=ffffff&sideNums=ffffff"/>
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidasouraka&hide_border=true&background=0a0a0a&stroke=1a1208&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=555555&dates=444444&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
+
+---
+
+## `> ./activity_graph.sh`
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamidasouraka&bg_color=0a0a0a&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=C9A84C&hide_border=true&custom_title=Contribution%20Activity"/>
+
+</div>
+
+---
+
+## `> ./trophies.sh`
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=hamidasouraka&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&title_color=C9A84C"/>
+
+</div>
+
+---
+
+## `> ./contribution_snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamidasouraka/hamidasouraka/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamidasouraka/hamidasouraka/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/hamidasouraka/hamidasouraka/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
 
 </div>
 
@@ -104,14 +166,18 @@ class HamidaSouraka:
 
 ## `> echo $MANIFESTE`
 
+Most global platforms treat African markets as an afterthought — no local payment rails, no offline-first design, no understanding of how business actually moves on the ground. I'm not building *for* Africa from the outside. I'm building *from inside* — which means the constraints are my product.
+
+In 10 years, I want to be known as an **AI engineer and entrepreneur** who helped close the gap between what global tech can do and what African founders actually need.
+
 <div align="center">
 
-*"L'écart entre l'IA mondiale et les défis africains*  
-*n'est pas un problème — c'est une opportunité."*
+*"The gap between global AI and African challenges*  
+*isn't a problem — it's the opportunity."*
 
-**Si tu es un jeune Africain qui croit que les meilleures opportunités**  
-**sont réservées aux « bonnes » origines — postule quand même.**  
-**🌍 Le monde regarde l'Afrique.**
+**If you're a young African who believes the best opportunities**  
+**are reserved for the "right" backgrounds — apply anyway.**  
+**🌍 The world is watching Africa.**
 
 </div>
 
@@ -119,12 +185,13 @@ class HamidaSouraka:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/hamidasouraka)
-[![Restafy](https://img.shields.io/badge/Restafy-0a0a0a?style=flat-square&logo=firefox&logoColor=C9A84C)](https://restafy.com)
-[![GCI Tokyo](https://img.shields.io/badge/GCI_Tokyo-0a0a0a?style=flat-square&logo=academia&logoColor=C9A84C)](https://gci.t.u-tokyo.ac.jp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/hamidasouraka)
+[![Restafy](https://img.shields.io/badge/Restafy-0a0a0a?style=for-the-badge&logo=firefox&logoColor=C9A84C)](https://restafy.shop)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=C9A84C)](https://souraka.vercel.app)
+[![GCI Tokyo](https://img.shields.io/badge/GCI_Tokyo-0a0a0a?style=for-the-badge&logo=academia&logoColor=C9A84C)](https://gci.t.u-tokyo.ac.jp)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1208,100:0a0a0a&height=80&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,50:1a1208,100:0a0a0a&height=100&section=footer&animation=fadeIn"/>
 
 </div>
