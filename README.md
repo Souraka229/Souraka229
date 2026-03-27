@@ -1,162 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a0533,60:0d1117,100:0f0c29&height=220&section=header&text=SOURAKA&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20·%20AI%20Engineer%20·%20Builder%20from%20West%20Africa&descAlignY=62&descAlign=50&descColor=a78bfa&stroke=7c3aed&strokeWidth=2" width="100%"/>
+<!-- ANIMATED BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=HAMIDA%20Souraka&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20Africa%27s%20Digital%20Future%20%F0%9F%8C%9D&descAlignY=58&descSize=20&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Founder+%26+CEO+%40+Restafy+—+West+Africa's+restaurant+super-app;🤖+Building+SYNAPTIC+—+a+self-evolving+AI+agent;📲+SikaFlow+%2F+MoMoParse+—+MoMo+SMS+API+for+Africa;🎌+GCI+World+2026+—+Matsuo+Lab%2C+University+of+Tokyo;🌍+18+y%2Fo.+Cotonou%2C+Bénin.+Moving+fast.+Breaking+limits." alt="Typing SVG" />
+<!-- ANIMATED TYPING -->
+<a href="https://github.com/hamidasouraka">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=🇧🇯+17+y%2Fo+Builder+from+Bénin%2C+West+Africa;🤖+Data+Scientist+in+Training;🚀+Founder+%40Restafy+%26+%40AfroSite;🎌+GCI+World+2026+%7C+University+of+Tokyo;💡+Digitalizing+African+Businesses+with+AI;🔥+Full-Stack+Dev+%7C+ML+Engineer+in+Progress;🌍+The+World+is+Watching+Africa." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Souraka229&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Age-18-7c3aed?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Cotonou%2C+Bénin-a78bfa?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Building-00C851?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HAMIDA_Souraka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamidasouraka)
+[![Twitter](https://img.shields.io/badge/Twitter-@hamidasouraka-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hamidasouraka)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souraka@restafy.com)
+![Profile Views](https://komarev.com/ghpvc/?username=hamidasouraka&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=Souraka229&show_icons=true&theme=midnight-purple&border_radius=14&hide_border=false&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&count_private=true&include_all_commits=true"/>
+## `> whoami` 🧠
 
-### `$ cat /etc/souraka/identity`
+```python
+class HamidaSouraka:
+    def __init__(self):
+        self.name        = "HAMIDA Souraka"
+        self.age         = 17
+        self.location    = "Cotonou, Bénin 🇧🇯"
+        self.school      = "Sèmè City Institute — Digitalisation & Data Science"
+        self.companies   = ["@Restafy 🍽️", "@AfroSite 🌐"]
+        self.mission     = "Digitalize African businesses through AI"
+        self.achievement = "Accepted → GCI World 2026 @ University of Tokyo 🎌"
+        self.mindset     = "Apply anyway. The world is watching Africa. 🌍"
 
-```typescript
-const souraka = {
-  name      : "Souraka",
-  age       : 18,
-  location  : "Cotonou, Bénin 🇧🇯",
-  education : "Digitalisation & Data Science @ Sèmè City",
-  program   : "GCI World 2026 — Matsuo Lab, Univ. of Tokyo 🎌",
-  roles     : [
-    "Founder & CEO @ Restafy",
-    "Full-Stack Developer",
-    "AI Engineer",
-    "Hackathon builder",
-  ],
-  languages : ["fr", "en"],
-  wakeUpAt  : "05:00 🌙",
-  goal      : "Build the infra layer for West Africa's economy",
-};
+    def current_focus(self):
+        return [
+            "Building Restafy — West Africa's restaurant super-app",
+            "Deep Learning @ Matsuo-Iwasawa Lab, U-Tokyo",
+            "Automating African SMEs with AI",
+        ]
+
+me = HamidaSouraka()
+print(me.mindset)
+# → "Apply anyway. The world is watching Africa. 🌍"
 ```
 
-<br clear="right"/>
-
 ---
 
-## `$ ls -la ~/active-projects`
+## `> ./tech_stack.sh` 🛠️
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🍽️_RESTAFY-IN_PROD-00C851?style=for-the-badge"/>
-<br/><sub>Premier super-app restaurant<br/>pour l'Afrique de l'Ouest.<br/>Commande · Réservation · Fidélité · Events</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🤖_SYNAPTIC-STEALTH-7c3aed?style=for-the-badge"/>
-<br/><sub>Agent IA autonome auto-évolutif<br/>sous Windows · Gemini API · Ollama<br/>Vision · Screen · Keyboard control</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/📲_SIKAFLOW-ALPHA-0ea5e9?style=for-the-badge"/>
-<br/><sub>API publique de parsing SMS MoMo<br/>pour développeurs africains.<br/>MTN · Moov · Multi-pays</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🌐_WEB_AGENCY-LIVE-ff6b35?style=for-the-badge"/>
-<br/><sub>Agence web · Sites sur-mesure<br/>pour clients et entreprises<br/>West Africa</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `$ pip show tech_stack`
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router_v7-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-
-**Backend & Infra**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Edge Functions](https://img.shields.io/badge/Edge_Functions-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**AI & Data Science**
-
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### 🤖 AI / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-**Dev Tools**
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+### ☁️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## `$ neofetch --mode=full`
+## `> git log --projects` 🚀
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souraka229&layout=compact&langs_count=8&theme=midnight-purple&border_radius=14&border_color=7c3aed&title_color=a78bfa"/>
-&nbsp;&nbsp;
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Souraka229&theme=midnight-purple&border_radius=14&border=7c3aed&stroke=7c3aed&fire=ff6b35&ring=7c3aed&currStreakLabel=a78bfa"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Souraka229&theme=react-dark&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=false&border_color=7c3aed&radius=14" width="98%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Souraka229&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=false" width="98%"/>
+| 🏷️ Project | 📝 Description | 🔧 Stack | 🌍 Impact |
+|:---:|:---|:---:|:---:|
+| 🍽️ **Restafy** | West Africa's restaurant super-app | Python · React · SQL | 🇧🇯 Bénin |
+| 🌐 **AfroSite** | Digitalization platform for African SMEs | HTML · JS · AI | 🌍 Africa |
+| 🤖 **AI Projects** | Deep Learning & automation experiments | TensorFlow · sklearn | 🌏 Global |
 
 </div>
 
 ---
 
-## `$ tail -1 /var/log/souraka/philosophy.log`
+## `> ./github_stats.sh` 📊
 
 <div align="center">
 
-<br/>
-
-> ### *"Le meilleur moment pour l'Afrique c'était il y a 10 ans.*
-> ### *Le deuxième meilleur moment, c'est aujourd'hui."*
->
-> **— Souraka · Cotonou, Bénin 🇧🇯**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamidasouraka&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidasouraka&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff"/>
 
 <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidasouraka&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7C3AED&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=ffffff&dates=666666" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=hamidasouraka&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## `> cat achievements.log` 🏆
+
+```bash
+[2026-04] ✅ Accepted → GCI World 2026 @ Matsuo-Iwasawa Lab, University of Tokyo 🎌
+[2025-**] ✅ Founded Restafy — Restaurant super-app for West Africa 🍽️
+[2025-**] ✅ Founded AfroSite — African Business Digitalization Platform 🌐
+[2025-**] ✅ Enrolled @ Sèmè City — Digitalisation & Data Science 🎓
+[2025-**] ✅ Built Full-Stack AI-powered applications 🤖
+```
+
+---
+
+## `> cat activity.svg` 🔥
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamidasouraka&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## `> echo $QUOTE` 💬
+
+<div align="center">
+
+> *"I didn't apply because I thought I was ready. I applied because I knew I needed to be."*
+> **— HAMIDA Souraka, 17, Bénin 🇧🇯**
+
+<br/>
+
+**If you are a young African who believes the best opportunities are reserved for those from the "right" places — Apply anyway. 🌍 The world is watching Africa.**
 
 </div>
 
@@ -164,17 +157,15 @@ const souraka = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Souraka229/Souraka229/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+### 🤝 Let's Connect & Build Africa's Future Together
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamidasouraka)
+[![Restafy](https://img.shields.io/badge/Restafy-Check_It_Out-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://restafy.com)
 
 <br/>
 
-**`Connect ↓`**
+*"The gap between global AI and African challenges is not a problem — it is an opportunity."* 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter/X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:1a0533,100:0d1117&height=140&section=footer&text=Built+from+Cotonou.+Shipped+to+the+world.&fontSize=18&fontColor=a78bfa&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
 </div>
