@@ -16,7 +16,7 @@
 &nbsp;
 [![GCI Tokyo](https://img.shields.io/badge/GCI_World_2026-Univ._Tokyo-C9A84C?style=flat-square&labelColor=0a0a0a)](https://gci.t.u-tokyo.ac.jp)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-souraka.vercel.app-C9A84C?style=flat-square&labelColor=0a0a0a)](https://souraka.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-souraka.vercel.app-C9A84C?style=flat-square&labelColor=0a0a0a)](https://souraka.restafy.shop)
 
 </div>
 
