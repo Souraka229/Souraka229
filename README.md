@@ -6,9 +6,14 @@
 
 <br/>
 
+[![Committers Top Badge](https://user-badge.committers.top/benin_private/Souraka229.svg)](https://user-badge.committers.top/benin_private/Souraka229)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Souraka229&style=flat-square&color=C9A84C&label=Views)](https://github.com/Souraka229)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hamidasouraka-0a0a0a?style=flat-square&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/hamidasouraka)
+&nbsp;
 [![RESTAFY](https://img.shields.io/badge/CEO-RESTAFY-0a0a0a?style=flat-square&logo=firebase&logoColor=C9A84C)](https://restafy.shop)
-[![Portfolio](https://img.shields.io/badge/Portfolio-souraka.restafy.shop-0a0a0a?style=flat-square&logo=vercel&logoColor=C9A84C)](https://souraka.restafy.shop)
+&nbsp;
 [![GCI Tokyo](https://img.shields.io/badge/GCI_2026-Univ.%20Tokyo-0a0a0a?style=flat-square&logo=academia&logoColor=C9A84C)](https://gci.t.u-tokyo.ac.jp)
 
 </div>
@@ -162,7 +167,7 @@ AVRR agents spending hours juggling Excel, documents, and databases to understan
 │           Design → Build → Support
 │
 → 2027+ ──  🌍 Scale Continental Impact
-            Research → Validated Product → African Market
+             Research → Validated Product → African Market
 ```
 
 ---
@@ -188,6 +193,20 @@ AVRR agents spending hours juggling Excel, documents, and databases to understan
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Souraka229&bg_color=0a0a0a&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=1a1208&hide_border=true&custom_title=Contribution%20Graph"/>
+
+</div>
+
+---
+
+## `> ./snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Souraka229/Souraka229/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Souraka229/Souraka229/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Souraka229/Souraka229/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
 
 </div>
 
